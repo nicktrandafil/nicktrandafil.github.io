@@ -16,3 +16,11 @@ Send and receive files in a local network using Locally App.
 
 * <a href="Locally-Portable-1.0.0-x64.zip">Portable zip</a>
 * <a href="Locally-Installer-1.0.0-x64.exe">Installer</a>
+
+### macOS, iOS
+
+Coming to App Store in a couple of weeks.
+
+## Contact
+
+<p><a href="mailto:nicktrandafil@gmail.com">Email</a> Nicolai Trandafil</p>
