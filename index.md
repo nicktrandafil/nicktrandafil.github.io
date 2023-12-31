@@ -1,6 +1,6 @@
 # Locally App
 
-Send and receive files in a local network using Locally App.
+Send files to devices in your WIFI, Hotspot or other local network using Locally App.
 
 ## Downloads
 
