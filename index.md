@@ -10,6 +10,7 @@ Send files to devices in your WIFI, Hotspot or other local network using Locally
 
 * <a href="ubuntu_23.10_locally_1.0_amd64.deb">Ubuntu 23.10</a>
 * <a href="kubuntu_22.04_locally_1.0_amd64.deb">Kubuntu 22.04</a>
+* <a href="kubuntu_22.04_locally_1.0_amd64.deb">Ubuntu 22.04</a>
 * <a href="ubuntu_20.04_locally_1.0_amd64.deb">Ubuntu 20.04</a>
 
 ### Windows 11, 10
