@@ -24,8 +24,9 @@ Send files to devices in your WIFI, Hotspot or other local network using Locally
 
 ### macOS, iOS
 
-Coming to App Store in a couple of weeks.
+Coming to App Store soon.
 
 ## Contact
 
 <p><a href="mailto:nicktrandafil@gmail.com">Email Nicolai Trandafil</a></p>
+
