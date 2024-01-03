@@ -26,6 +26,20 @@ Send files to devices in your WIFI, Hotspot or other local network using Locally
 
 Coming to App Store soon, meanwhile you can install the development version from <a href="https://i.diawi.com/6m8eMt">Diawi</a>.
 
+## Help
+
+On some operating systems you'll need to manually open the port 37789 in order for the app to be discovered and be able to receive files.
+
+### Known operating systems that need manual port opening
+
+1. OpenSUSE Tumbleweed
+
+    ```
+    sudo firewall-cmd --zone=public --add-port=37789/tcp
+    ```
+
+    or manually search for _firewall_ in your application menu and open the port 37789.
+
 ## Contact
 
 <p><a href="mailto:nicktrandafil@gmail.com">Email Nicolai Trandafil</a></p>
