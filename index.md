@@ -24,9 +24,8 @@ Send files to devices in your WIFI, Hotspot or other local network using Locally
 
 ### macOS, iOS
 
-Coming to App Store soon.
+Coming to App Store soon, meanwhile you can install the development version from <a href="https://i.diawi.com/6m8eMt">Diawi</a>.
 
 ## Contact
 
 <p><a href="mailto:nicktrandafil@gmail.com">Email Nicolai Trandafil</a></p>
-
