@@ -6,6 +6,8 @@ Send files to devices in your WiFi, Hotspot or other local network using Locally
 
 ### Linux
 
+* <a href="locally-1.0.0-1-x86_64.pkg.tar.zst">Arch Linux</a>
+
 #### Debian based (*.deb)
 
 * <a href="ubuntu_23.10_locally_1.0_amd64.deb">Ubuntu 23.10</a>
