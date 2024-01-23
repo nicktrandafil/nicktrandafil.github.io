@@ -1,28 +1,34 @@
 # Locally App
 
-Send files to devices in your WiFi, Hotspot or other local network using Locally App.
+Send files and text to devices in your WiFi, Hotspot or other local network using Locally App.
+
+## What's new in version 1.1 (January 2024)
+
+* send text;
+* on Android share directly from files or gallery;
+* on Desktop drag and drop files to send them.
 
 ## Downloads
 
 ### Linux
 
-* <a href="locally-1.0.0-1-x86_64.pkg.tar.zst">Arch Linux</a>
+* Arch Linux: <a href="locally-1.1.0-1-x86_64.pkg.tar.zst">v1.1</a>
 
 #### Debian based (*.deb)
 
-* <a href="ubuntu_23.10_locally_1.0_amd64.deb">Ubuntu 23.10</a>
-* <a href="kubuntu_22.04_locally_1.0_amd64.deb">Kubuntu 22.04</a>
-* <a href="kubuntu_22.04_locally_1.0_amd64.deb">Ubuntu 22.04</a>
-* <a href="ubuntu_20.04_locally_1.0_amd64.deb">Ubuntu 20.04</a>
+* Ubuntu 23.10: <a href="ubuntu_23.10_locally_1.0_amd64.deb">v1.0</a>
+* Kubuntu 22.04: <a href="kubuntu_22.04_locally_1.0_amd64.deb">v1.0</a>
+* Ubuntu 22.04: <a href="kubuntu_22.04_locally_1.0_amd64.deb">v1.0</a>
+* Ubuntu 20.04: <a href="ubuntu_20.04_locally_1.0_amd64.deb">v1.0</a>
 
 #### Red Hat based (*.rpm)
 
-* <a href="locally-1.1-1.x86_64.rpm">OpenSUSE Tumbleweed</a>
+* OpenSUSE Tumbleweed: <a href="locally-1.1-1.x86_64.rpm">v1.0</a>
 
 ### Windows 11, 10
 
-* <a href="Locally-Portable-1.0.0-x64.zip">Portable zip</a>
-* <a href="Locally-Installer-1.0.0-x64.exe">Installer</a>
+* Portable zip: <a href="Locally-Portable-1.1.0-x64.zip">v1.1</a>
+* Installer <a href="Locally-Installer-1.1.0-x64.exe">v1.1</a>
 
 ### Android
 
