@@ -16,9 +16,9 @@ Send files and text to devices in your WiFi, Hotspot or other local network usin
 
 #### Debian based (*.deb)
 
-* Ubuntu 23.10: <a href="ubuntu_23.10_locally_1.0_amd64.deb">v1.0</a>
-* Kubuntu 22.04: <a href="kubuntu_22.04_locally_1.0_amd64.deb">v1.0</a>
+* Ubuntu 23.10: <a href="ubuntu_23.10_locally_1.1_amd64.deb">v1.1</a>
 * Ubuntu 22.04: <a href="kubuntu_22.04_locally_1.0_amd64.deb">v1.0</a>
+* Kubuntu 22.04: <a href="kubuntu_22.04_locally_1.0_amd64.deb">v1.0</a>
 * Ubuntu 20.04: <a href="ubuntu_20.04_locally_1.0_amd64.deb">v1.0</a>
 
 #### Red Hat based (*.rpm)
