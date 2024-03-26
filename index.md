@@ -25,23 +25,34 @@ Stepping stones are remembering devices, being present while in background, join
 
 ### Windows 11, 10
 
-* Portable zip: <a href="Locally-Portable-1.2.0-x64.zip">v1.2</a>
-* Installer <a href="Locally-Installer-1.2.0-x64.exe">v1.2</a>
+* Portable zip: <a href="Locally-Portable-1.3.0-x64.zip">v1.3</a>
+* Installer <a href="Locally-Installer-1.3.0-x64.exe">v1.3</a>
 
 ### Linux
 
-* Arch Linux: <a href="locally-1.2.0-1-x86_64.pkg.tar.zst">v1.2</a>
+* Arch Linux: <a href="locally-1.3.0-1-x86_64.pkg.tar.zst">v1.3</a>
 
 #### Debian based (*.deb)
 
-* Ubuntu 23.10: <a href="ubuntu_23.10_locally_1.2_amd64.deb">v1.2</a>
-* Ubuntu 22.04: <a href="kubuntu_22.04_locally_1.2_amd64.deb">v1.2</a>
-* Kubuntu 22.04: <a href="kubuntu_22.04_locally_1.2_amd64.deb">v1.2</a>
-* Ubuntu 20.04: <a href="ubuntu_20.04_locally_1.2_amd64.deb">v1.2</a>
+* Ubuntu 23.10: <a href="ubuntu_23.10_locally_1.3_amd64.deb">v1.3</a>
+* Ubuntu 22.04: <a href="kubuntu_22.04_locally_1.3_amd64.deb">v1.3</a>
+* Kubuntu 22.04: <a href="kubuntu_22.04_locally_1.3_amd64.deb">v1.3</a>
+* Ubuntu 20.04: <a href="ubuntu_20.04_locally_1.3_amd64.deb">v1.3</a>
 
 #### Red Hat based (*.rpm)
 
-* OpenSUSE Tumbleweed: <a href="opensuse-tumbleweed-locally-1.2-1.x86_64.rpm">v1.2</a>
+* OpenSUSE Tumbleweed: <a href="opensuse-tumbleweed-locally-1.3-1.x86_64.rpm">v1.3</a>
+
+## What's new in version 1.3 (March 2024)
+
+Apple:
+* Share extension. This means you you can go to Photos, select a photo, tap share and select Locally from the list of apps.
+
+Android:
+* Pick photos and videos from gallery.
+
+Desktop:
+* Change current network.
 
 ## What's new in version 1.2 (February 2024)
 
