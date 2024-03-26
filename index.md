@@ -77,6 +77,7 @@ On some operating systems you'll need to manually open the port 37789 in order f
 
     ```
     sudo firewall-cmd --zone=public --add-port=37789/tcp
+    sudo firewall-cmd --zone=public --add-port=37789/udp
     ```
 
     or manually search for _firewall_ in your application menu and open the port 37789.
