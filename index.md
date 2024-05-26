@@ -9,9 +9,33 @@ The goal of this project is to achieve frictionless continuity in divergent devi
 Stepping stones are remembering devices, being present while in background, joining devices in a group, providing common clipboard and folder.
 
 <p float="left">
-    <img src="ipad.png" width="800" /> 
-    <img src="android.png" width="800" /> 
+    <img src="ipad.png" width="800" />
+    <img src="android.png" width="800" />
+    <img src="desktop.png" width="800" />
 </p>
+
+## May 26, 2024
+
+### Version 1.4 is available for Android
+
+Transfer speed is improved, reaching up to 70MB/s when receiving on a mobile device via its own hotspot.
+Connectivity is also improved, enabling two devices to communicate seamlessly even when one of them is behind a firewall.
+
+Other changes:
+* transfers automatically resume when connection is reestablished or app is restarted, unless there is an error or the transfer is explicitly paused;
+
+
+## May 22, 2024
+
+### Version 1.4 is available for macOS and iOS
+
+This is the first native version for macOS. Previous versions were available for Silicon Macs as "Designed for iPad" apps. The app is now available for Intel Macs as well.
+Transfer speed is improved, reaching up to 70MB/s when receiving on a mobile device via its own hotspot.
+Connectivity is also improved, enabling two devices to communicate seamlessly even when one of them is behind a firewall.
+
+Other changes:
+* messages include error messages;
+* transfers automatically resume when connection is reestablished or app is restarted, unless there is an error or the transfer is explicitly paused;
 
 ## Downloads
 
@@ -19,7 +43,7 @@ Stepping stones are remembering devices, being present while in background, join
 
 [Link to Google Play](https://play.google.com/store/apps/details?id=com.trand.locally).
 
-### iOS
+### iOS, macOS, iPadOS
 
 [Link to App Store](https://apps.apple.com/us/app/send-locally/id6475152818).
 
