@@ -14,6 +14,46 @@ Stepping stones are remembering devices, being present while in background, join
     <img src="desktop.png" width="800" />
 </p>
 
+## Downloads
+
+### Android
+
+[Link to Google Play](https://play.google.com/store/apps/details?id=com.trand.locally).
+
+### iOS, macOS, iPadOS
+
+[Link to App Store](https://apps.apple.com/us/app/send-locally/id6475152818).
+
+### Windows 11, 10
+
+* Portable zip: <a href="Locally-Portable-1.4.0-x64.zip">v1.4</a>
+* Installer <a href="Locally-Installer-1.4.0-x64.exe">v1.4</a>
+
+### Linux
+
+* Arch Linux: <a href="locally-1.4.0-1-x86_64.pkg.tar.zst">v1.4</a>
+
+#### Debian based (*.deb)
+
+* Ubuntu 23.10: <a href="ubuntu_23.10_locally_1.4_amd64.deb">v1.4</a>
+* Ubuntu 24.04: <a href="ubuntu_23.04_locally_1.4_amd64.deb">v1.4</a>
+* Ubuntu 22.04: <a href="kubuntu_22.04_locally_1.4_amd64.deb">v1.4</a>
+* Kubuntu 22.04: <a href="kubuntu_22.04_locally_1.4_amd64.deb">v1.4</a>
+* Ubuntu 20.04: <a href="ubuntu_20.04_locally_1.4_amd64.deb">v1.4</a>
+
+#### Red Hat based (*.rpm)
+
+* OpenSUSE Tumbleweed: <a href="opensuse-tumbleweed-locally-1.3-1.x86_64.rpm">v1.3</a>
+
+## May 28, 2024
+
+### Version 1.4 is available for Desktop
+
+* Improved transfer speed;
+* a peer behind firewall can connect, send and receive files from peers outside the firewall without needing to open any ports;
+* show speed and errors on messages;
+* fixed a bug of casual resetting the config saved configuration;
+
 ## May 26, 2024
 
 ### Version 1.4 is available for Android
@@ -36,36 +76,6 @@ Connectivity is also improved, enabling two devices to communicate seamlessly ev
 Other changes:
 * messages include error messages;
 * transfers automatically resume when connection is reestablished or app is restarted, unless there is an error or the transfer is explicitly paused;
-
-## Downloads
-
-### Android
-
-[Link to Google Play](https://play.google.com/store/apps/details?id=com.trand.locally).
-
-### iOS, macOS, iPadOS
-
-[Link to App Store](https://apps.apple.com/us/app/send-locally/id6475152818).
-
-### Windows 11, 10
-
-* Portable zip: <a href="Locally-Portable-1.3.0-x64.zip">v1.3</a>
-* Installer <a href="Locally-Installer-1.3.0-x64.exe">v1.3</a>
-
-### Linux
-
-* Arch Linux: <a href="locally-1.4.0-1-x86_64.pkg.tar.zst">v1.4</a>
-
-#### Debian based (*.deb)
-
-* Ubuntu 23.10: <a href="ubuntu_23.10_locally_1.3_amd64.deb">v1.3</a>
-* Ubuntu 22.04: <a href="kubuntu_22.04_locally_1.3_amd64.deb">v1.3</a>
-* Kubuntu 22.04: <a href="kubuntu_22.04_locally_1.3_amd64.deb">v1.3</a>
-* Ubuntu 20.04: <a href="ubuntu_20.04_locally_1.3_amd64.deb">v1.3</a>
-
-#### Red Hat based (*.rpm)
-
-* OpenSUSE Tumbleweed: <a href="opensuse-tumbleweed-locally-1.3-1.x86_64.rpm">v1.3</a>
 
 ## What's new in version 1.3 (March 2024)
 
