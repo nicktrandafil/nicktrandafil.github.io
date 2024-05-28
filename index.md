@@ -54,7 +54,7 @@ Other changes:
 
 ### Linux
 
-* Arch Linux: <a href="locally-1.3.0-1-x86_64.pkg.tar.zst">v1.3</a>
+* Arch Linux: <a href="locally-1.4.0-1-x86_64.pkg.tar.zst">v1.4</a>
 
 #### Debian based (*.deb)
 
