@@ -31,15 +31,15 @@ Stepping stones are remembering devices, being present while in background, join
 
 ### Linux
 
-* Arch Linux: <a href="locally-1.4.0-1-x86_64.pkg.tar.zst">v1.4</a>
+* Arch Linux: <a href="locally-1.5-1-x86_64.pkg.tar.zst">v1.5</a>
 
 #### Debian based (*.deb)
 
-* Ubuntu 23.10: <a href="ubuntu_23.10_locally_1.4_amd64.deb">v1.4</a>
-* Ubuntu 24.04: <a href="ubuntu_23.04_locally_1.4_amd64.deb">v1.4</a>
-* Ubuntu 22.04: <a href="kubuntu_22.04_locally_1.4_amd64.deb">v1.4</a>
-* Kubuntu 22.04: <a href="kubuntu_22.04_locally_1.4_amd64.deb">v1.4</a>
-* Ubuntu 20.04: <a href="ubuntu_20.04_locally_1.4_amd64.deb">v1.4</a>
+* Ubuntu 24.04: <a href="ubuntu_24.04_locally_1.5_amd64.deb">v1.5</a>
+* Ubuntu 23.10: <a href="ubuntu_24.04_locally_1.5_amd64.deb">v1.5</a>
+* Ubuntu 22.04: <a href="kubuntu_22.04_locally_1.5_amd64.deb">v1.5</a>
+* Kubuntu 22.04: <a href="kubuntu_22.04_locally_1.5_amd64.deb">v1.5</a>
+* Ubuntu 20.04: <a href="ubuntu_20.04_locally_1.5_amd64.deb">v1.5</a>
 
 #### Red Hat based (*.rpm)
 
