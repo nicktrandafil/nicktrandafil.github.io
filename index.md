@@ -43,7 +43,7 @@ Stepping stones are remembering devices, being present while in background, join
 
 #### Red Hat based (*.rpm)
 
-* OpenSUSE Tumbleweed: <a href="opensuse-tumbleweed-locally-1.3-1.x86_64.rpm">v1.3</a>
+* OpenSUSE Tumbleweed: <a href="opensuse-tumbleweed-locally-1.5-1.x86_64.rpm">v1.5</a>
 
 ## May 28, 2024
 
