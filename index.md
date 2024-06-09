@@ -26,33 +26,39 @@ Stepping stones are remembering devices, being present while in background, join
 
 ### Windows 11, 10
 
-* Portable zip: <a href="Locally-Portable-1.4.0-x64.zip">v1.4</a>
-* Installer <a href="Locally-Installer-1.4.0-x64.exe">v1.4</a>
+* Portable zip: <a href="Locally-Portable-1.5.1-x64.zip">v1.5.1</a>
+* Installer <a href="Locally-Installer-1.5.1-x64.exe">v1.5.1</a>
 
 ### Linux
 
-* Arch Linux: <a href="locally-1.5-1-x86_64.pkg.tar.zst">v1.5</a>
+* Arch Linux: <a href="locally-1.5.1-1-x86_64.pkg.tar.zst">v1.5.1</a>
 
 #### Debian based (*.deb)
 
-* Ubuntu 24.04: <a href="ubuntu_24.04_locally_1.5_amd64.deb">v1.5</a>
-* Ubuntu 23.10: <a href="ubuntu_24.04_locally_1.5_amd64.deb">v1.5</a>
-* Ubuntu 22.04: <a href="kubuntu_22.04_locally_1.5_amd64.deb">v1.5</a>
-* Kubuntu 22.04: <a href="kubuntu_22.04_locally_1.5_amd64.deb">v1.5</a>
-* Ubuntu 20.04: <a href="ubuntu_20.04_locally_1.5_amd64.deb">v1.5</a>
+* Ubuntu 24.04: <a href="ubuntu_24.04_locally_1.5.1_amd64.deb">v1.5.1</a>
+* Ubuntu 23.10: <a href="ubuntu_24.04_locally_1.5.1_amd64.deb">v1.5.1</a>
+* Ubuntu 22.04: <a href="ubuntu_22.04_locally_1.5.1_amd64.deb">v1.5.1</a>
+* Kubuntu 22.04: <a href="ubuntu_22.04_locally_1.5.1_amd64.deb">v1.5.1</a>
+* Ubuntu 20.04: <a href="ubuntu_20.04_locally_1.5.1_amd64.deb">v1.5.1</a>
 
 #### Red Hat based (*.rpm)
 
-* OpenSUSE Tumbleweed: <a href="opensuse-tumbleweed-locally-1.5-1.x86_64.rpm">v1.5</a>
+* OpenSUSE Tumbleweed: <a href="opensuse-tumbleweed-locally-1.5.1-1.x86_64.rpm">v1.5.1</a>
+
+## June 9, 2024
+
+### Version 1.5.1 is available for Desktop, iOS and macOS
+
+* Bug fixes.
 
 ## May 28, 2024
 
 ### Version 1.4 is available for Desktop
 
-* Improved transfer speed;
-* a peer behind firewall can connect, send and receive files from peers outside the firewall without needing to open any ports;
-* show speed and errors on messages;
-* fixed a bug of casual resetting the config saved configuration;
+* Improved transfer speed.
+* A peer behind firewall can connect, send and receive files from peers outside the firewall without needing to open any ports.
+* Show speed and errors on messages.
+* Fixed a bug of casual resetting the config saved configuration.
 
 ## May 26, 2024
 
