@@ -26,24 +26,35 @@ Stepping stones are remembering devices, being present while in background, join
 
 ### Windows 11, 10
 
-* Portable zip: <a href="Locally-Portable-1.5.1-x64.zip">v1.5.1</a>
-* Installer <a href="Locally-Installer-1.5.1-x64.exe">v1.5.1</a>
+* Portable zip: <a href="Locally-Portable-1.5.2-x64.zip">v1.5.2</a>
+* Installer <a href="Locally-Installer-1.5.2-x64.exe">v1.5.2</a>
 
 ### Linux
 
-* Arch Linux: <a href="locally-1.5.1-1-x86_64.pkg.tar.zst">v1.5.1</a>
+* Arch Linux: <a href="archlinux-locally-1.5.2-1-x86_64.pkg.tar.zst">v1.5.2</a>
 
 #### Debian based (*.deb)
 
-* Ubuntu 24.04: <a href="ubuntu_24.04_locally_1.5.1_amd64.deb">v1.5.1</a>
-* Ubuntu 23.10: <a href="ubuntu_24.04_locally_1.5.1_amd64.deb">v1.5.1</a>
-* Ubuntu 22.04: <a href="ubuntu_22.04_locally_1.5.1_amd64.deb">v1.5.1</a>
-* Kubuntu 22.04: <a href="ubuntu_22.04_locally_1.5.1_amd64.deb">v1.5.1</a>
-* Ubuntu 20.04: <a href="ubuntu_20.04_locally_1.5.1_amd64.deb">v1.5.1</a>
+* Ubuntu 24.04: <a href="ubuntu_24.04_locally_1.5.2_amd64.deb">v1.5.2</a>
+* Ubuntu 23.10: <a href="ubuntu_24.04_locally_1.5.2_amd64.deb">v1.5.2</a>
+* Ubuntu 22.04: <a href="ubuntu_22.04_locally_1.5.2_amd64.deb">v1.5.2</a>
+* Kubuntu 22.04: <a href="ubuntu_22.04_locally_1.5.2_amd64.deb">v1.5.2</a>
+* Ubuntu 20.04: <a href="ubuntu_20.04_locally_1.5.2_amd64.deb">v1.5.2</a>
 
 #### Red Hat based (*.rpm)
 
-* OpenSUSE Tumbleweed: <a href="opensuse-tumbleweed-locally-1.5.1-1.x86_64.rpm">v1.5.1</a>
+* OpenSUSE Tumbleweed: <a href="opensuse-tumbleweed-locally-1.5.2-1.x86_64.rpm">v1.5.2</a>
+
+## June 27, 2024
+
+### Version 1.5.2
+
+* Improve stability.
+* Remember user choice when removing incoming partial file.
+* Fix: on desktop, adjust networks dropdown width when the list changes.
+* Fix: don't show ourselves in the peer list.
+* Unset downloads directory setting.
+* On android, copy button on text messages.
 
 ## June 9, 2024
 
