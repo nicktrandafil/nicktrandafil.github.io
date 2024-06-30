@@ -26,24 +26,24 @@ Stepping stones are remembering devices, being present while in background, join
 
 ### Windows 11, 10
 
-* Portable zip: <a href="Locally-Portable-1.5.3-x64.zip">v1.5.3</a>
-* Installer <a href="Locally-Installer-1.5.3-x64.exe">v1.5.3</a>
+* Portable zip: <a href="Locally-Portable-1.5.4-x64.zip">v1.5.4</a>
+* Installer <a href="Locally-Installer-1.5.4-x64.exe">v1.5.4</a>
 
 ### Linux
 
-* Arch Linux: <a href="archlinux-locally-1.5.3-1-x86_64.pkg.tar.zst">v1.5.3</a>
+* Arch Linux: <a href="archlinux-locally-1.5.4-1-x86_64.pkg.tar.zst">v1.5.4</a>
 
 #### Debian based (*.deb)
 
-* Ubuntu 24.04: <a href="ubuntu_24.04_locally_1.5.3_amd64.deb">v1.5.3</a>
-* Ubuntu 23.10: <a href="ubuntu_24.04_locally_1.5.3_amd64.deb">v1.5.3</a>
-* Ubuntu 22.04: <a href="ubuntu_22.04_locally_1.5.3_amd64.deb">v1.5.3</a>
-* Kubuntu 22.04: <a href="ubuntu_22.04_locally_1.5.3_amd64.deb">v1.5.3</a>
-* Ubuntu 20.04: <a href="ubuntu_20.04_locally_1.5.3_amd64.deb">v1.5.3</a>
+* Ubuntu 24.04: <a href="ubuntu_24.04_locally_1.5.4_amd64.deb">v1.5.4</a>
+* Ubuntu 23.10: <a href="ubuntu_24.04_locally_1.5.4_amd64.deb">v1.5.4</a>
+* Ubuntu 22.04: <a href="ubuntu_22.04_locally_1.5.4_amd64.deb">v1.5.4</a>
+* Kubuntu 22.04: <a href="ubuntu_22.04_locally_1.5.4_amd64.deb">v1.5.4</a>
+* Ubuntu 20.04: <a href="ubuntu_20.04_locally_1.5.4_amd64.deb">v1.5.4</a>
 
 #### Red Hat based (*.rpm)
 
-* OpenSUSE Tumbleweed: <a href="opensuse-tumbleweed-locally-1.5.3-1.x86_64.rpm">v1.5.3</a>
+* OpenSUSE Tumbleweed: <a href="opensuse-tumbleweed-locally-1.5.4-1.x86_64.rpm">v1.5.4</a>
 
 ## June 29, 2024
 
