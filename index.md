@@ -26,116 +26,24 @@ Stepping stones are remembering devices, being present while in background, join
 
 ### Windows 11, 10
 
-* Portable zip: <a href="Locally-Portable-1.5.7-x64.zip">v1.5.7</a>
-* Installer <a href="Locally-Installer-1.5.7-x64.exe">v1.5.7</a>
+* Portable zip: <a href="Locally-Portable-1.5.8-x64.zip">v1.5.8</a>
+* Installer <a href="Locally-Installer-1.5.8-x64.exe">v1.5.8</a>
 
 ### Linux
 
-* Arch Linux: <a href="archlinux-locally-1.5.7-1-x86_64.pkg.tar.zst">v1.5.7</a>
+* Arch Linux: <a href="archlinux-locally-1.5.8-1-x86_64.pkg.tar.zst">v1.5.8</a>
 
 #### Debian based (*.deb)
 
-* Ubuntu 24.04: <a href="ubuntu_24.04_locally_1.5.7_amd64.deb">v1.5.7</a>
-* Ubuntu 23.10: <a href="ubuntu_24.04_locally_1.5.7_amd64.deb">v1.5.7</a>
-* Ubuntu 22.04: <a href="ubuntu_22.04_locally_1.5.7_amd64.deb">v1.5.7</a>
-* Kubuntu 22.04: <a href="ubuntu_22.04_locally_1.5.7_amd64.deb">v1.5.7</a>
-* Ubuntu 20.04: <a href="ubuntu_20.04_locally_1.5.7_amd64.deb">v1.5.7</a>
+* Ubuntu 24.04: <a href="ubuntu_24.04_locally_1.5.8_amd64.deb">v1.5.8</a>
+* Ubuntu 23.10: <a href="ubuntu_24.04_locally_1.5.8_amd64.deb">v1.5.8</a>
+* Ubuntu 22.04: <a href="ubuntu_22.04_locally_1.5.8_amd64.deb">v1.5.8</a>
+* Kubuntu 22.04: <a href="ubuntu_22.04_locally_1.5.8_amd64.deb">v1.5.8</a>
+* Ubuntu 20.04: <a href="ubuntu_20.04_locally_1.5.8_amd64.deb">v1.5.8</a>
 
 #### Red Hat based (*.rpm)
 
-* OpenSUSE Tumbleweed: <a href="opensuse-tumbleweed-locally-1.5.7-1.x86_64.rpm">v1.5.7</a>
-
-## June 29, 2024
-
-### Version 1.5.3
-
-* Fix occasionally forgetting user preferences.
-* Select downloads directory on Desktop.
-* Support macOS 12.
-
-## June 27, 2024
-
-### Version 1.5.2
-
-* Improve stability.
-* Remember user choice when removing incoming partial file.
-* Fix: on desktop, adjust networks dropdown width when the list changes.
-* Fix: don't show ourselves in the peer list.
-* Unset downloads directory setting.
-* On android, copy button on text messages.
-
-## June 9, 2024
-
-### Version 1.5.1 is available for Desktop, iOS and macOS
-
-* Bug fixes.
-
-## May 28, 2024
-
-### Version 1.4 is available for Desktop
-
-* Improved transfer speed.
-* A peer behind firewall can connect, send and receive files from peers outside the firewall without needing to open any ports.
-* Show speed and errors on messages.
-* Fixed a bug of casual resetting the config saved configuration.
-
-## May 26, 2024
-
-### Version 1.4 is available for Android
-
-Transfer speed is improved, reaching up to 70MB/s when receiving on a mobile device via its own hotspot.
-Connectivity is also improved, enabling two devices to communicate seamlessly even when one of them is behind a firewall.
-
-Other changes:
-* transfers automatically resume when connection is reestablished or app is restarted, unless there is an error or the transfer is explicitly paused;
-
-
-## May 22, 2024
-
-### Version 1.4 is available for macOS and iOS
-
-This is the first native version for macOS. Previous versions were available for Silicon Macs as "Designed for iPad" apps. The app is now available for Intel Macs as well.
-Transfer speed is improved, reaching up to 70MB/s when receiving on a mobile device via its own hotspot.
-Connectivity is also improved, enabling two devices to communicate seamlessly even when one of them is behind a firewall.
-
-Other changes:
-* messages include error messages;
-* transfers automatically resume when connection is reestablished or app is restarted, unless there is an error or the transfer is explicitly paused;
-
-## What's new in version 1.3 (March 2024)
-
-Apple:
-* Share extension. This means you you can go to Photos, select a photo, tap share and select Locally from the list of apps.
-
-Android:
-* Pick photos and videos from gallery.
-
-Desktop:
-* Change current network.
-
-## What's new in version 1.2 (February 2024)
-
-Apple:
-* send from Photos
-* select multiple files
-* network button on toolbar
-* downloads directory setting
-
-Android:
-* network button on toolbar
-* downloads directory setting
-* UI feedback when importing media from cloud
-
-Apple, Android and Desktop:
-* bigger font
-* improved peer discovery
-* some error messages have better explanation
-
-## What's new in version 1.1 (January 2024)
-
-* send text;
-* on Android share directly from files or gallery;
-* on Desktop drag and drop files to send them.
+* OpenSUSE Tumbleweed: <a href="opensuse-tumbleweed-locally-1.5.8-1.x86_64.rpm">v1.5.8</a>
 
 ## Help
 
