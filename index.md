@@ -8,12 +8,6 @@ The goal of this project is to achieve frictionless continuity in divergent devi
 
 Stepping stones are remembering devices, being present while in background, joining devices in a group, providing common clipboard and folder.
 
-<p float="left">
-    <img src="ipad.png" width="800" />
-    <img src="android.png" width="800" />
-    <img src="desktop.png" width="800" />
-</p>
-
 ## Downloads
 
 ### Android
@@ -65,3 +59,11 @@ The app running on a device with restrictive firewall rules will still be able t
 ## Contact
 
 <p><a href="mailto:nicktrandafil@gmail.com">Email Nicolai Trandafil</a></p>
+
+## Gallery
+
+<p float="left">
+    <img src="ipad.png" width="800" />
+    <img src="android.png" width="800" />
+    <img src="desktop.png" width="800" />
+</p>
