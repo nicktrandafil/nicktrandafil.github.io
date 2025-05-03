@@ -62,8 +62,37 @@ The app running on a device with restrictive firewall rules will still be able t
 
 ## Gallery
 
-<p float="left">
-    <img src="ipad.png" width="800" />
-    <img src="android.png" width="800" />
-    <img src="desktop.png" width="800" />
-</p>
+<!-- iOS Screenshots Section -->
+<h2 style="text-align: center; font-family: sans-serif;">iOS</h2>
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <img src="ios_nearby_devices.png" alt="iOS Nearby Devices" style="height: 500px; border-radius: 12px;">
+  <img src="ios_chat.png" alt="iOS Chat" style="height: 500px; border-radius: 12px;">
+  <img src="ios_settings.png" alt="iOS Settings" style="height: 500px; border-radius: 12px;">
+</div>
+
+<!-- Android Screenshots Section -->
+<h2 style="text-align: center; font-family: sans-serif;">Android</h2>
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <img src="android_nearby_devices.jpg" alt="Android Nearby Devices" style="height: 500px; border-radius: 12px;">
+  <img src="android_chat.jpg" alt="Android Chat" style="height: 500px; border-radius: 12px;">
+  <img src="android_settings.jpg" alt="Android Settings" style="height: 500px; border-radius: 12px;">
+  <img src="android_networks.jpg" alt="Android Networks" style="height: 500px; border-radius: 12px;">
+</div>
+
+<!-- macOS Screenshot Section -->
+<h2 style="text-align: center; font-family: sans-serif;">macOS</h2>
+<div style="display: flex; justify-content: center; margin-bottom: 40px;">
+  <img src="macos.png" alt="macOS Screenshot" style="height: 500px; border-radius: 12px;">
+</div>
+
+<!-- iPad Screenshot Section -->
+<h2 style="text-align: center; font-family: sans-serif;">iPad</h2>
+<div style="display: flex; justify-content: center; margin-bottom: 40px;">
+  <img src="ipad.png" alt="iPad Screenshot" style="height: 500px; border-radius: 12px;">
+</div>
+
+<!-- Linux Screenshot Section -->
+<h2 style="text-align: center; font-family: sans-serif;">Linux</h2>
+<div style="display: flex; justify-content: center; margin-bottom: 40px;">
+  <img src="linux.png" alt="Linux Screenshot" style="height: 500px; border-radius: 12px;">
+</div>
