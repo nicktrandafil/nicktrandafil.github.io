@@ -4,4 +4,6 @@ title: Home
 permalink: /
 ---
 
-{% include_relative overview.md %}
+# About Me
+
+Hi, I'm Nicolai. Welcome to my personal site.
