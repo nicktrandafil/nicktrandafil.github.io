@@ -1,3 +1,4 @@
+/* Light theme (default) */
 body {
     background: white;
     color: black;
@@ -19,3 +20,20 @@ nav a {
 main {
     max-width: 800px;
 }
+
+/* Dark theme support */
+@media (prefers-color-scheme: dark) {
+    body {
+        background: #121212;
+        color: #e0e0e0;
+    }
+
+    nav a {
+        color: #e0e0e0;
+    }
+
+    a {
+        color: #8ab4f8;
+    }
+}
+
