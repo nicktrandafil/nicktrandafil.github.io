@@ -6,7 +6,7 @@ permalink: /apps/
 
 # Apps
 
-Here are some of the applications and projects I've built.
+Here are some of the applications I've built. For feature requests or support, just <a href="mailto:nicktrandafil@gmail.com">email me</a>.
 
 <ul>
   {% for app in site.apps %}
