@@ -11,14 +11,25 @@ nav {
 }
 
 nav a {
-    color: black;
+    color: #007acc; /* or var(--link) if you're using CSS vars */
     text-decoration: none;
     margin-right: 1rem;
     font-weight: bold;
+    transition: text-decoration 0.2s;
+}
+
+nav a:hover {
+    text-decoration: underline;
 }
 
 main {
-    max-width: 800px;
+    max-width: 900px;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 1rem;
 }
 
 /* Dark theme support */
@@ -29,7 +40,7 @@ main {
     }
 
     nav a {
-        color: #e0e0e0;
+        color: #8ab4f8;
     }
 
     a {
@@ -37,3 +48,27 @@ main {
     }
 }
 
+.screenshot-row {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+
+.phone-frame {
+    border: 16px solid #333;
+    border-radius: 36px;
+    padding: 8px;
+    background: black;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    max-height: 540px;
+}
+
+.phone-frame img {
+    display: block;
+    border-radius: 24px;
+    max-height: 500px;
+    width: auto;
+    max-width: 100%;
+}
