@@ -1,6 +1,6 @@
 ---
-title: Foo Page
-permalink: /apps/myapp/foo/
+title: Privacy Policy
+permalink: /apps/locally/apple-privacy-policy
 ---
 
 # Privacy Policy
