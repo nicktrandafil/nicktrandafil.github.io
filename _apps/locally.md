@@ -26,7 +26,7 @@ Features:
 
 ### Windows 11, 10
 
-* Portable zip: <a href="Locally-Portable-1.5.12-x64.zip">v1.5.12</a>
+* Portable zip: <a href="/other/Locally-Portable-1.5.12-x64.zip">v1.5.12</a>
 * Installer <a href="Locally-Installer-1.5.12-x64.exe">v1.5.12</a>
 
 ### Linux

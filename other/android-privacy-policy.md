@@ -1,6 +1,6 @@
 ---
-title: Foo Page
-permalink: /apps/myapp/foo/
+title: Privacy Policy
+permalink: /apps/locally/android-privacy-policy
 ---
 
 # Privacy Policy
@@ -19,6 +19,21 @@ to your peer devices.
 
 This includes metadata of the files you selected to transfer, which are
 not yet completed transferring.
+
+## Required Permissions
+
+Note that the app doesn't require universal access to the external storage
+of the device. Instead, it uses Android's Scoped Storage feature to access
+only the files you select and when you select them.
+
+### ACCESS_NETWORK_STATE
+
+This permission is needed to obtain the local address of the
+network the device is connected to.
+
+### INTERNET
+
+This permission is needed to send files over the network.
 
 ## Security Measures
 
