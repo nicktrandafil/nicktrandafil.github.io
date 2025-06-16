@@ -6,13 +6,13 @@ excerpt: Locally is a cross-platform, peer-to-peer text and file exchange app fo
 
 Locally: Device Ecosystem
 
-Locally is a cross-platform, peer-to-peer text and file exchange app focused on making data transfer between devices as seamless as possible.
+Locally is a cross-platform, peer-to-peer text and file exchange app focused on making data transfer between devices as seamless as possible. It connects devices on the same local network by default.
 
 Features:
 * Transfers never leave the local network — no Internet required.
-* Instant device discovery on the same network.
+* Instant device discovery.
 * Unfinished transfers are saved and can be resumed later.
-* Transfers are as fast as your network allows — up to 40 MB/s on a home network, and 80 MB/s via mobile hotspot.
+* Transfers are as fast as your network allows — up to 40 MB/s on some home networks and 80 MB/s on some mobile hotspots.
 
 ## Downloads
 
@@ -27,23 +27,23 @@ Features:
 ### Windows 11, 10
 
 * Portable zip: <a href="/other/Locally-Portable-1.5.12-x64.zip">v1.5.12</a>
-* Installer <a href="Locally-Installer-1.5.12-x64.exe">v1.5.12</a>
+* Installer <a href="/other/Locally-Installer-1.5.12-x64.exe">v1.5.12</a>
 
 ### Linux
 
-* Arch Linux: <a href="archlinux-locally-1.5.12-1-x86_64.pkg.tar.zst">v1.5.12</a>
+* Arch Linux: <a href="/other/archlinux-locally-1.5.12-1-x86_64.pkg.tar.zst">v1.5.12</a>
 
 #### Debian based (*.deb)
 
-* Ubuntu 24.04: <a href="ubuntu_24.04_locally_1.5.12_amd64.deb">v1.5.12</a>
-* Ubuntu 23.10: <a href="ubuntu_24.04_locally_1.5.12_amd64.deb">v1.5.12</a>
-* Ubuntu 22.04: <a href="ubuntu_22.04_locally_1.5.12_amd64.deb">v1.5.12</a>
-* Kubuntu 22.04: <a href="ubuntu_22.04_locally_1.5.12_amd64.deb">v1.5.12</a>
-* Ubuntu 20.04: <a href="ubuntu_20.04_locally_1.5.12_amd64.deb">v1.5.12</a>
+* Ubuntu 24.04: <a href="/other/ubuntu_24.04_locally_1.5.12_amd64.deb">v1.5.12</a>
+* Ubuntu 23.10: <a href="/other/ubuntu_24.04_locally_1.5.12_amd64.deb">v1.5.12</a>
+* Ubuntu 22.04: <a href="/other/ubuntu_22.04_locally_1.5.12_amd64.deb">v1.5.12</a>
+* Kubuntu 22.04: <a href="/other/ubuntu_22.04_locally_1.5.12_amd64.deb">v1.5.12</a>
+* Ubuntu 20.04: <a href="/other/ubuntu_20.04_locally_1.5.12_amd64.deb">v1.5.12</a>
 
 #### Red Hat based (*.rpm)
 
-* OpenSUSE Tumbleweed: <a href="opensuse-tumbleweed-locally-1.5.12-1.x86_64.rpm">v1.5.12</a>
+* OpenSUSE Tumbleweed: <a href="/other/opensuse-tumbleweed-locally-1.5.12-1.x86_64.rpm">v1.5.12</a>
 
 ## Help
 
