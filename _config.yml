@@ -1,8 +1,14 @@
 title: Nicolai Trandafil
-description: A simple, clean site
+description: Blog & Apps
 theme: null
 
 collections:
   apps:
     output: true
     permalink: /apps/:name/
+
+plugins:
+  - jekyll-feed
+
+feed:
+    limit: 20
