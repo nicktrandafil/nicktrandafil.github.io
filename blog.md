@@ -4,9 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-# Blog Posts
-
-Here are some posts where I share my personal experiences.
+# Blog
 
 <ul>
   {% for post in site.posts %}
