@@ -10,9 +10,9 @@
 
   <div class="container">
     <nav>
-      <a href="/">Home</a> |
-      <a href="/blog">Blog</a> |
-      <a href="/apps">Apps</a>
+      <a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
+      <a href="/blog/" {% if page.url contains "/blog" %}class="active"{% endif %}>Blog</a>
+      <a href="/apps/" {% if page.url contains "/apps" %}class="active"{% endif %}>Apps</a>
     </nav>
 
     <main>

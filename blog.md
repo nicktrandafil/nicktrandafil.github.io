@@ -4,8 +4,6 @@ title: Blog
 permalink: /blog/
 ---
 
-# Blog
-
 <ul>
   {% for post in site.posts %}
     <li style="margin-bottom: 1.5rem;">
