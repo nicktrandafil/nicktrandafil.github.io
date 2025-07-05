@@ -4,7 +4,7 @@ title: "Locally: Device Ecosystem"
 excerpt: Locally is a cross-platform, peer-to-peer text and file exchange app focused on making data transfer between devices as seamless as possible.
 ---
 
-Locally: Device Ecosystem
+# Locally: Device Ecosystem
 
 Locally is a cross-platform, peer-to-peer text and file exchange app focused on making data transfer between devices as seamless as possible. It connects devices on the same local network by default.
 

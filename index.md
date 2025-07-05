@@ -4,8 +4,6 @@ title: Home
 permalink: /
 ---
 
-# About Me
-
 <img src="/assets/images/hike.jpg" alt="Hiking photo" style="float: right; margin: 0 0 1rem 1rem; max-height: 400px; border-radius: 12px;">
 
 Hi, I'm Nicolai. Welcome to my website, where I post my work.
