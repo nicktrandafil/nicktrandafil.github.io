@@ -23,11 +23,11 @@ nav a:hover {
 }
 
 main {
-    max-width: 800px;
+    max-width: 900px;
 }
 
 .container {
-    max-width: 800px;
+    max-width: 900px;
     margin: 0 auto;
     padding: 0 1rem;
 }
@@ -71,10 +71,6 @@ main {
     max-height: 500px;
     width: auto;
     max-width: 100%;
-}
-
-.phone-frame {
-    max-width: 200px;
 }
 
 nav a.active {
