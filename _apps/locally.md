@@ -26,22 +26,22 @@ Features:
 
 ### Windows 11, 10
 
-* Portable zip: <a href="/other/Locally-Portable-1.5.13-x64.zip">v1.5.13</a>
-* Installer <a href="/other/Locally-Installer-1.5.13-x64.exe">v1.5.13</a>
+* Portable zip: <a href="/other/Locally-Portable-1.5.14-x64.zip">v1.5.14</a>
+* Installer <a href="/other/Locally-Installer-1.5.14-x64.exe">v1.5.14</a>
 
 ### Linux
 
-* Arch Linux: <a href="/other/archlinux-locally-1.5.13-1-x86_64.pkg.tar.zst">v1.5.13</a>
+* Arch Linux: <a href="/other/archlinux-locally-1.5.14-1-x86_64.pkg.tar.zst">v1.5.14</a>
 
 #### Debian based (*.deb)
 
-* Ubuntu 24.04: <a href="/other/ubuntu_24.04_locally_1.5.13_amd64.deb">v1.5.13</a>
-* Ubuntu 22.04: <a href="/other/ubuntu_22.04_locally_1.5.13_amd64.deb">v1.5.13</a>
-* Kubuntu 22.04: <a href="/other/ubuntu_22.04_locally_1.5.13_amd64.deb">v1.5.13</a>
+* Ubuntu 24.04: <a href="/other/ubuntu_24.04_locally_1.5.14_amd64.deb">v1.5.14</a>
+* Ubuntu 22.04: <a href="/other/ubuntu_22.04_locally_1.5.14_amd64.deb">v1.5.14</a>
+* Kubuntu 22.04: <a href="/other/ubuntu_22.04_locally_1.5.14_amd64.deb">v1.5.14</a>
 
 #### Red Hat based (*.rpm)
 
-* OpenSUSE Tumbleweed: <a href="/other/opensuse-tumbleweed-locally-1.5.13-1.x86_64.rpm">v1.5.13</a>
+* OpenSUSE Tumbleweed: <a href="/other/opensuse-tumbleweed-locally-1.5.14-1.x86_64.rpm">v1.5.14</a>
 
 ## Help
 
