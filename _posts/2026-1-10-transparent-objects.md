@@ -6,7 +6,7 @@ excerpt: "Transparent function objects enable operations on heterogeneous types.
 
 # Transparent function objects
 
-In Rust I tried to binary search a string slice in a string collection, and was surpriced that I had to resort from `binary_search` to either `binary_search_by` or `binary_search_by_key`:
+In Rust I tried to binary search a string slice in a string collection, and was surprised that I had to resort from `binary_search` to either `binary_search_by` or `binary_search_by_key`:
 
 ```rust
 fn main() {
