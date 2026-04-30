@@ -66,6 +66,6 @@ int main() {
 
 If you work with non-standard strings, then a CPO function object per formatting semantic might be a good solution.
 
-Swift uses different terminology for string formatting — string interpolation. It has the `CustomStringConvertible` and `CustomDebugStringConvertible` protocols, which semantically correspond to Rust’s `Display` and `Debug` traits.
+Swift have two formatting APIs: `String(format: "%d", someVar)` and `"\(someVar)"`. The former delegates to Objective-C, the latter is implemented in Swift and relies on protocols `ExpressibleByStringInterpolation`, `CustomStringConvertible`, and `StringInterplation` type alias associated with the type for which `ExpressibleByStringInterpolation` is implemented. In the standard library `String` implements `ExpressibleByStringInterpolation`, enabling interpolation into strings, but you can enable this feature for your own string types too. One way to customize formatting for a custom type is to implement `CustomStringConvertible`.
 
 Kotlin, similar to C++, doesn’t distinguish between display and debug string representations. To make your class formattable, you need to implement the `toString` method.
