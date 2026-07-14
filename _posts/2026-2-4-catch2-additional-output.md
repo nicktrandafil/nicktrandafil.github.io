@@ -24,3 +24,5 @@ if (expected)
 This is very helpful when debugging - if the test fails I immediately see the iterator value and the trie, and I can figure out what I did wrong.
 
 There is one surprising distinction between `REQUIRE` and `INFO` in how the arguments are turned to strings. The former uses `Catch::StringMaker<T>`, while the latter - `ostream& operator<<(ostream&, T)`.
+
+For unconditional output `std::cout` can be used.
