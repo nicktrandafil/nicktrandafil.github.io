@@ -13,7 +13,9 @@ Some languages, including C++, decide not to have such semantics in the standard
 If you choose to go with `std::format`, then it is possible to use a formatting option to distinguish between the two semantics. For example, 'd' for debug and lack of 'd' for human readable string.
 
 ```cpp
+#include <format>
 #include <print>
+#include <string_view>
 
 using namespace std;
 
@@ -36,11 +38,12 @@ struct formatter<Something> {
             debug = false;
         } else if (*it == 'd') {
             debug = true;
+            ++it;
         } else {
             throw std::format_error("Supported format options are: 'd' - debug; none - human readable");
         }
 
-        return ++it;
+        return it;
     }
 
     template <typename FormatContext>
@@ -57,8 +60,8 @@ struct formatter<Something> {
 
 int main() {
     Something x{"a", 1, "b"};
-    println("{}", x);
-    println("{:d}", x);
+    println("this is display: {}", x);
+    println("this is debug: {:d}", x);
 }
 
 // cd /tmp && g++ -std=c++23 foo.cpp && ./a.out
